@@ -21,3 +21,5 @@ Read the docs at https://docs.pstream.org/proxy/introduction
  - AWS lambda
  - nodejs
  - netlify edge functions
+<!-- Small Badge -->
+[![NoSkid Verification](https://noskid.today/badge/100x30/?repo=syrupmold/syrupmold)](https://noskid.today)
